@@ -163,7 +163,7 @@ exposes most of the networking functionality at a fairly low level of abstractio
 <p>This specification depends on the Infra Standard. [[!INFRA]]
 
 <p>This specification uses terminology from the ABNF, Encoding, HTML, HTTP, IDL, MIME Sniffing,
-Streams, URL, and WebSocket Standards.
+Streams, URL, and WebSockets Standards.
 [[!ABNF]]
 [[!ENCODING]]
 [[!HTML]]
